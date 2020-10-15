@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555334558 source:c:\users\user\documents\distr_boisson\nouveau dossier\projet\distributeur\untitled1.c
+	<stdio.h>
+
+1555345044 source:c:\users\user\documents\distr_boisson\nouveau dossier\projet\distributeur\main.c
+	<stdio.h>
+	<windows.h>
+	"module.h"
+
+1555346160 c:\users\user\documents\distr_boisson\nouveau dossier\projet\distributeur\module.h
+	<stdio.h>
+	<windows.h>
+
